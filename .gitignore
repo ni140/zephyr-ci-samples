@@ -1,0 +1,12 @@
+# Ignore all files
+*
+
+# Allow directories
+!*/
+
+# Allow specific files
+!*.json
+!*.md
+!*.yml
+!.prettierignore
+!.gitignore
